@@ -2,7 +2,7 @@
 
 This is a simple to-do list application where users can add tasks and delete them once they are completed.
 
-**Features***
+**Features**
 
   * *Add tasks*: Users can add tasks to the to-do list by entering a task description and clicking the "Add" button.
 
@@ -39,7 +39,7 @@ This is a simple to-do list application where users can add tasks and delete the
 
 **Contributing**
         
-    Contributions are welcome! Feel free to fork the repository, make changes, and submit pull requests.
+   Contributions are welcome! Feel free to fork the repository, make changes, and submit pull requests.
 
    **1**.  Fork the repository.
   
@@ -53,4 +53,4 @@ This is a simple to-do list application where users can add tasks and delete the
 
 **License**
   
-    This project is licensed under the MIT License.
+   This project is licensed under the MIT License.
